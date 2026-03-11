@@ -18,3 +18,5 @@ HTML
 - Lists (ordered and unordered)
 - Inline styling
 - Image insertion
+## Preview
+![Preview](preview.png)
